@@ -1,6 +1,6 @@
 
 # 👋 ¡Hola!
-🌟 Como desarrollador web me apasiona crear y buscar la excelencia, el principal objetivo en mis proyectos es lograr que la navegación en línea sea una experiencia intuitiva y satisfactoria para todos 🌐. <br><br>💻 Soy estudiante de la carrera Certified Tech Developer, Digital House, CABA.<br><br>📍 Vivo en Canelones, Uruguay.<br>
+🌟 Como desarrollador web me apasiona crear y buscar la excelencia, el principal objetivo en mis proyectos es lograr que la navegación en línea sea una experiencia intuitiva y satisfactoria para todos. 🌐 <br><br>💻 Soy estudiante de la carrera Certified Tech Developer, Digital House, CABA.<br><br>📍 Vivo en Canelones, Uruguay.<br>
 
 
 ## Competencias:
