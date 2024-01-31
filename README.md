@@ -1,6 +1,6 @@
 
 # 👋 ¡Hola!
-🌟 Como desarrollador web me apasiona crear y buscar la excelencia, el principal objetivo en mis proyectos es lograr que la navegación en línea sea una experiencia intuitiva y satisfactoria para todos. 🌐 <br><br>💻 Soy estudiante de la carrera Certified Tech Developer, Digital House, CABA.<br><br>📍 Vivo en Canelones, Uruguay.<br>
+🌟 Como desarrollador me apasiona crear y buscar la excelencia, el principal objetivo en mis proyectos es lograr que la navegación en línea sea una experiencia satisfactoria y accesible para todos. 🌐 <br><br>💻 Soy estudiante de la carrera Certified Tech Developer, Digital House, CABA.<br><br>📍 Vivo en Canelones, Uruguay.<br>
 
 
 ## Competencias:
@@ -11,9 +11,9 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 # 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nastacosta&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
